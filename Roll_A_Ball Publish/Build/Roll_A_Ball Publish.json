@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll A Ball 2.0",
+"dataUrl": "Roll_A_Ball Publish.data.unityweb",
+"asmCodeUrl": "Roll_A_Ball Publish.asm.code.unityweb",
+"asmMemoryUrl": "Roll_A_Ball Publish.asm.memory.unityweb",
+"asmFrameworkUrl": "Roll_A_Ball Publish.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
